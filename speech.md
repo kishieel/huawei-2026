@@ -13,11 +13,11 @@ The script is about 300 words. Spoken slowly with pauses, that's about 2:40, whi
 
 > Good morning. Thank you very much for this invitation, and congratulations to all the teams.
 >
-> My name is Tomasz, and I represent Carrotly, a team of creative engineers from Kraków, in Poland. At the HackYeah hackathon we built SafeMesh, and it won second place in the Huawei challenge.
+> My name is Tomasz, and I represent Carrotly, a team of creative engineers from Kraków, in Poland. At the HackYeah hackathon we built SafeMesh, and it won second place in the Huawei challenge. But what actually is SafeMesh?
 >
-> Imagine a crisis in your city: a flood, a blackout, or a drone strike. The cell towers go down, and your phone shows only one thing: "no service". In a critical situation without clear guidance, people panic, rumours spread, and everything quickly turns into chaos. This is exactly when we need a reliable emergency alert system. But today, government alerts mostly come through the mobile network. Without towers, they cannot arrive.
+> Imagine a crisis in your city: a flood, a blackout, or a drone strike. The cell towers go down, and your phone shows only one thing: "no service". In a critical situation without clear guidance, people panic, rumours spread, and everything quickly turns into chaos. This is exactly when we need a bulletproof emergency alert system. But today, government alerts mostly come through the mobile network. Without towers, they cannot arrive.
 >
-> SafeMesh solves this. It is one native HarmonyOS app, built in twenty-four hours, with three ideas that only work together. Signed alerts, checked on the phone with the Crypto Architecture Kit. A phone-to-phone relay, with a NearLink Kit adapter. And an offline map with protective points near the user's location.
+> SafeMesh solves this. It is a native HarmonyOS app, with three ideas that only work together. Signed alerts, checked on the phone with the Crypto Architecture Kit. A phone-to-phone relay, with a NearLink Kit adapter. And an offline map with protective points near the user's location.
 
 <!-- /notes -->
 
@@ -31,7 +31,7 @@ _Pause after "no service". When you name the three ideas, point at the phone: th
 >
 > Our next step would be to extend SafeMesh beyond NearLink, to Bluetooth and Wi-Fi, and to test NearLink on real phones. We would be very happy to do it together with Huawei.
 >
-> The network can fail. The warning still arrives.
+> SafeMesh: the network can fail. The warning still arrives.
 >
 > Thank you very much.
 
