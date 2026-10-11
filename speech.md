@@ -29,6 +29,8 @@ _Pause after "no service". When you name the three ideas, point at the phone: th
 
 > Here is how it works. An official issuer sends a digitally signed warning to the devices in range, using NearLink. Phone A receives it and passes it on to the devices in its own range, like phone B. Then B passes it further to C. Every phone checks the signature by itself. If someone changes even one bit of the message, the signature breaks, and the phone rejects it and drops it from the network. C was never near the source, yet it still gets a warning it can trust.
 >
+> And a warning is only half of the answer. People also need to know where to go. Even in Europe today, most people still don't know what protective points are, or where to find the nearest one. That is why SafeMesh also keeps a small offline map, only 404 kilobytes, with protective points and the distance to each one. It works with no connection at all.
+>
 > Our next step would be to extend SafeMesh beyond NearLink, to Bluetooth and Wi-Fi, and to test NearLink on real phones. We would be very happy to do it together with Huawei.
 >
 > SafeMesh: the network can fail. The warning still arrives.
